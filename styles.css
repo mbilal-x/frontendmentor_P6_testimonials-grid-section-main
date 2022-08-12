@@ -129,9 +129,9 @@ main{
 
 
 @media( min-width:800px){
-    /* html{
+    html{
         font-size: 12px;
-    } */
+    }
 
     body{
         display: grid;
