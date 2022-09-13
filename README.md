@@ -42,8 +42,12 @@ Users should be able to:
 
 ### What I learned
 
+This was my first real experience working with grids. 
+I learned to make grid template and assign areas and order to the children element blocks(cards)
+Also, I struggled to make this grid design similar to the design challenge, which after some experimentation I managed to get right, adding max-width to all cards. 
 
 ### Continued development
+Practice working with grid layouts
 
 
 ## Author
