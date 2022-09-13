@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](./screenshot_desktop.PNG)
+![](./screenshot_mobile.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/mbilal-x/frontendmentor_P6_testimonials-grid-section-main)
+- Live Site URL: [Live Site](https://mbilal-x.github.io/frontendmentor_P6_testimonials-grid-section-main/)
 
 ## My process
 
